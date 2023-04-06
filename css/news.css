@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.left-column {
+  width: 35%;
+  height: 490px;
+  float: left;
+}
+
+.right-column {
+  width: 65%;
+  height: 490px;
+  float: right;
+}
+
+.img-new {
+  width: 95%;
+}
+
+.btn-view {
+  padding: 1rem;
+  background-color: #2f89fc;
+  color: aliceblue;
+  font-size: large;
+  border-radius: 7px;
+}
+p {
+  font-size: 1rem;
+}
